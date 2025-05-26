@@ -1,6 +1,6 @@
-from pytube import Playlist, YouTube # type: ignore
-from bs4 import BeautifulSoup # type: ignore
-import requests # type: ignore
+from pytube import Playlist, YouTube 
+from bs4 import BeautifulSoup 
+import requests 
 
 URL_PLAYLIST = "https://www.youtube.com/playlist?list=PLw88QLYxobHeVwyhAw2yGkagwMMe_aY3y"
 
